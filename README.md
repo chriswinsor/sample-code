@@ -8,3 +8,5 @@ In csc226 is HeapTester.java which I wrote because I needed a good flexible heap
 seng265/python/assign3 contains formatter.py and sengfmt2.py written in python 3. sengfmt2.py takes in a text file with formatting instructions from stdin and outputs the formatted text file into stdout. formatter.py is what sengfmt2.py uses to format the file.
 
 seng265/C/assign4 contains the files used to do the same thing as seng265/python/assign3 but using C insted of python.
+
+MineSweeper.java is a command line based Minesweeper game. It implements all the features in the original game exept for revealing adjacent empty squares when an empty square is picked.
